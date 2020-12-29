@@ -1,0 +1,5 @@
+IKP3db - g 00:07:48,405132 - INFO - IKP3db 1.4 - Inouk Python Debugger for CPython 3.6+
+IKP3db - g 00:07:48,405328 - INFO - IKP3db listening on 127.0.0.1:15472
+IKP3db - g 00:07:48,502383 - INFO - Connected with 127.0.0.1:47008
+IKP3db - g 00:07:48,622642 - WARNING - IKP3db 1.4.1 is available on pypi.
+IKP3db - g 00:07:57,447234 - INFO - Program terminated with no exit value.

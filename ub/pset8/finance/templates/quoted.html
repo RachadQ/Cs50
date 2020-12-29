@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+  <p>
+      {{quoted['name']}} is currently at{{quoted['price']}}
+  </p>
+{% endblock %}
